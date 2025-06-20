@@ -700,7 +700,7 @@ $occupiedSeats = getOccupiedSeats($conn);
         <img src="images/7.jpg" alt="The Boy, the Mole, the Fox and the Horse" class="movie-poster">
         <div class="movie-details">
                 <h2>Bonifacio High Street</h2>
-                <div class="movie-title">Cinema 2, (IMAX 2D) THUNDERBOLTS
+                <div class="movie-title">Cinema 2, (IMAX 2D)
                     <br>THUNDERBOLTS</div>
                 <div class="movie-rating">R18 (Restricted 18)</div>
                 <div class="showtime">Tuesday, July 8, 2025 3:00 PM</div>
